@@ -24,4 +24,4 @@ gcc circular.c -o circular && ./circular
 
 ## Author
 
-[Your GitHub Username]
+[parknam5125@naver.com]
