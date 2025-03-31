@@ -1,6 +1,7 @@
 # Linked List & Circular Queue in C
 
 This repository contains basic implementations of stack and queue data structures in C.
+(Assignment in data structure lecture)
 
 ## Files
 
